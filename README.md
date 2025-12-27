@@ -40,4 +40,4 @@ El objetivo de este trabajo práctico es aplicar y reforzar los siguientes conce
 Este proyecto corresponde a la **segunda parte** del trabajo práctico y constituye la versión final del juego.  
 En esta etapa se completa la funcionalidad del juego, asignando comportamiento a los distintos elementos para que el juego sea completamente jugable.
 
-La consigna completa se encuentra disponible en el archivo `docs/consigna.pdf`.
+La consigna completa se encuentra disponible en el archivo `Fundamendez_TP2_2C2024.pdf`.
