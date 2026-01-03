@@ -41,3 +41,19 @@ Este proyecto corresponde a la **segunda parte** del trabajo práctico y constit
 En esta etapa se completa la funcionalidad del juego, asignando comportamiento a los distintos elementos para que el juego sea completamente jugable.
 
 La consigna completa se encuentra disponible en el archivo `Fundamendez_TP2_2C2024.pdf`.
+
+---
+
+## Visualización
+
+<p align="center">
+    <img src="img/bienvenida.png" width="80%">
+</p>
+
+<p align="center">
+    <img src="img/instrucciones.png" width="80%">
+</p>
+
+<p align="center">
+    <img src="img/restaurante_matriz.png" width="80%">
+</p>
